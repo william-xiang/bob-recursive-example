@@ -1,0 +1,17 @@
+{
+    "IBM i Developer.projects": [
+        {
+            "project": "bob-recursive-example",
+            "hostName": "p9adt01.rch.stglabs.ibm.com",
+            "userID": "wxiang",
+            "buildDirInitialized": true,
+            "buildDir": "/home/WXIANG/bob-recursive-example"
+        }
+    ],
+    "IBM i Developer.variables": [
+        {
+            "name": "&lib1",
+            "value": "wxiang"
+        }
+    ]
+}
